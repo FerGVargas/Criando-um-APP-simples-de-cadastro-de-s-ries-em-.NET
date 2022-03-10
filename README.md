@@ -1,2 +1,2 @@
-# Criando-um-APP-simples-de-cadastro-de-s-ries-em-.NET
-Criando um APP simples de cadastro de séries em .NET
+# Criado um novo repositório para projeto:
+https://github.com/FerGVargas/Interface-iFood-React-Native
